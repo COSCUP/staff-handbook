@@ -1,6 +1,7 @@
 # Summary
 
-* [introduction](README.md)
+* [README](README.md)
+* [工作團隊](team.md)
 * 科技工具
    * [團隊即時溝通，交給 Slack](slack_intro.md)
    * [多人共同編輯文件，就是 Hackpad](hackpad_intro.md)
