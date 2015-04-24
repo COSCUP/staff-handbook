@@ -8,4 +8,4 @@
 # Quick links
 
 * Read it on Gitbook: http://bobchao.gitbooks.io/coscup-staff-handbook/content/index.html
-* Folk it on Github: https://github.com/COSCUP/staff-handbook
+* Fork it on Github: https://github.com/COSCUP/staff-handbook
