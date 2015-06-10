@@ -1,6 +1,7 @@
 # Summary
 
 * [README](README.md)
+* [COSCUP 介紹](intro.md)
 * [工作團隊](team.md)
 * 科技工具
    * [團隊即時溝通，交給 Slack](slack_intro.md)
