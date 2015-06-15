@@ -22,4 +22,4 @@ Hackpad是可以多人線上共同編輯文件的工具，COSCUP 的 Hackpad 在
 
 Hackpad 也能設定權限，方便你僅邀請部分人參與
 
-![](hackpad_intro/hackpad-pravicy.png)
+![](hackpad_intro/hackpad-privacy.png)
