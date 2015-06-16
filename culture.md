@@ -16,6 +16,10 @@
 
 ## 進一步瞭解
 
-寫多了怕大家不會看，我們只很簡單地介紹基本的想法。如果你想更進一步瞭解開源文化，在此推薦由著名自由軟體運動參與者[唐鳳](https://zh.wikipedia.org/wiki/%E5%94%90%E9%B3%B3)演繹的「[開源之道](http://audrey.nu/-/2015/05/16/open-source-enlightenment-2015)」演講（2015 版）。這是段 40 分鐘左右的演講，精要且富有哲理地說出了開放源碼參與人士應該擁有的精神與態度：
+寫多了怕大家不會看，我們只很簡單地介紹基本的想法。如果你想更進一步瞭解開源文化，可參考臺灣開源貢獻者Mosiky的TED演講。她講到了自由軟體的背後文化，以及自己參與自由軟體貢獻的心法。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4_N2-fXjwEU" frameborder="0" allowfullscreen></iframe>
+
+同時也推薦由著名自由軟體運動參與者[唐鳳](https://zh.wikipedia.org/wiki/%E5%94%90%E9%B3%B3)演繹的「[開源之道](http://audrey.nu/-/2015/05/16/open-source-enlightenment-2015)」演講（2015 版）。這是段 40 分鐘左右的演講，精要且富有哲理地說出了開放源碼參與人士應該擁有的精神與態度：
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gLvSzANww2M?rel=0" frameborder="0" allowfullscreen></iframe>
