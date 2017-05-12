@@ -1,5 +1,9 @@
 # 多人共同編輯文件，就是 Hackpad
 
+**Update: Hackpad 已經進入日落期，2017 尚未定義團隊線上編輯該用哪個工具，當前您可以先自行採用 Google 文件、HackMD、Dropbox Paper 等工具擋一下**
+
+
+
 Hackpad是可以多人線上共同編輯文件的工具，COSCUP 的 Hackpad 在 [http://coscup.hackpad.com](http://coscup.hackpad.com)
 
 ![](hackpad_intro/hackpad-document.png)
